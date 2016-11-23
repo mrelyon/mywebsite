@@ -1,1 +1,1 @@
-web: python engine.py $PATH
+web: python engine.py ${PORT}
