@@ -39,7 +39,7 @@ def get_footer(name):
 
 class index:
     def GET(self):
-        name = 'Home'
+        name = 'Home - Ayomide Ikechukwu Daniels'
         return render.index(name,appdescription)
 
 
